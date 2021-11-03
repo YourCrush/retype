@@ -22,4 +22,4 @@ limitations under the License.
 ```
 
 
-This is a test of the *emergency response system* and I hope that if you are reading this you _understand that this is a test_ because if you don't then... **boom** 💣! Kidding
+This is a test of the *emergency response system* and I hope that if you are reading this you _understand that this is a test_ because if you don't then... **boom**! Kidding
