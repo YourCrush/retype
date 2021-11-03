@@ -1,3 +1,0 @@
-# retype
-
-Default readme page
